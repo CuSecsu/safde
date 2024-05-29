@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>pagina em html</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body bgcolor="ocean">
+<h1 class="title"> desenvolvimento de sistemas </h1>
+<p id="currentTime"></p>
+<script src="script.js"></script>
+<p>
+<img src="
+https://media.tenor.com/oGwLInPbrg4AAAAM/jeleca-macaco.gif"
+</p>
+</body>
+</html>
